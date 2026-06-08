@@ -394,6 +394,7 @@ If tests show **“You are…” / “Your body…” / “Your brain…”** cl
 | Slots + next fire | `src/logic/signalSchedule.ts` |
 | Selection engine | `src/logic/signalEngine.ts` |
 | Banks + focus lines | `src/data/signalBanks.ts` |
+| All messages + fire timing (reference) | `docs/MESSAGING_AND_TIMING.md` |
 | Schedule + parse + iOS attachment + silence | `src/services/notifications.ts` |
 | Preview simulation | `src/logic/nextSevenSignalPreview.ts` |
 | Pause timestamps | `src/logic/pauseBoundaries.ts` |
